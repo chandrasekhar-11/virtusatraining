@@ -1,3 +1,10 @@
 hi 
 welcome to javafsd
 today we covered overview of git
+
+------------------------------------
+
+tomorrow's topics are:
+SDLC
+Agile model
+Starting with Java
